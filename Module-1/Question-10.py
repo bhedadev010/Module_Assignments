@@ -11,3 +11,9 @@ for i in li:
 
 l2 = list(di.keys())
 print(l2)
+
+#OR
+
+li = [1,2,3,4,3,2,1,2,3,4,5,6]
+li = list(set(li))
+print(li)
