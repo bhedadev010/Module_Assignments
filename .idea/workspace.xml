@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11679a92-eded-4cba-b550-660f7d5725a1" name="Changes" comment="13-8-24">
+    <list default="true" id="11679a92-eded-4cba-b550-660f7d5725a1" name="Changes" comment="14-8-24">
+      <change afterPath="$PROJECT_DIR$/working_with_numpy/Question-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723519832978</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="14-8-24">
+      <option name="closed" value="true" />
+      <created>1723654475916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723654475916</updated>
+    </task>
+    <task id="LOCAL-00021" summary="14-8-24">
+      <option name="closed" value="true" />
+      <created>1723654530278</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723654530278</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,6 +262,7 @@
     <MESSAGE value="7-8-24" />
     <MESSAGE value="12-8-24" />
     <MESSAGE value="13-8-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-8-24" />
+    <MESSAGE value="14-8-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="14-8-24" />
   </component>
 </project>
